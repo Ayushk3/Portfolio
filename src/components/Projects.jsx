@@ -8,7 +8,7 @@ const projects = [
     about: 'StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.',
     techStack: 'React, Tailwind, MongoDB, Express, NodeJS',
     tags: ['Web Development'],
-    link: 'https://study-notion-git-master-ayushs-projects-7f5a16d3.vercel.app',
+    link: 'https://study-notion-alpha-gilt.vercel.app',
   },
   {
     image: image2,
